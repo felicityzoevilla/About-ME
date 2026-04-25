@@ -8,6 +8,6 @@
 
 --------
 ### Certifications:
-- *[Gemini University Student Certification](https://edu.google.accredible.com/7ac8fbac-23c6-4f2d-81c4-56d85640b1dc#acc.KBaOZmLN)*
+- *[Gemini Certified University Student](https://edu.google.accredible.com/7ac8fbac-23c6-4f2d-81c4-56d85640b1dc#acc.KBaOZmLN)*
 - *[SoloLearn Data Analytics with AI](https://www.sololearn.com/certificates/CC-UIEMU0JO)*
-- *[IBM NoSQL and DBaas 101](https://courses.cognitiveclass.ai/certificates/e47ed10cf79d422594a705801dc8f5b4)*
+- *[IBM NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e47ed10cf79d422594a705801dc8f5b4)*
