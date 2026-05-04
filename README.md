@@ -1,12 +1,17 @@
-# About ME
+# Hi, I'm Felicity Zoe O. Villa
 
-#### I am Felicity Zoe O. Villa! 
-- 2nd year BS Information Technology at New Era University.
-- member of New Era University Camera Club (NEUCC) {11/27/2025-Present}
-- has a passion for photography (soon on videography)
-- willing to train and collaborate.
+## About Me
+I am a 2nd year Bachelor of Science in Information Technology student at New Era University with a growing passion for both technology and creative media. As a member of the New Era University Camera Club (NEUCC) since November 27, 2025, I actively explore photography and plan to expand into videography.
 
---------
+An aspiring Network Administrator and IT Specialist, eager to build strong technical foundations in systems, networking, and database management. I am highly motivated to learn, open to training opportunities, and enthusiastic about collaborating with others to develop efficient and innovative solutions.
+
+---
+
+## Education
+- **BS Information Technology**  
+  *New Era University*  
+  *2024 – Present*
+
 ### Certifications:
 - *[Gemini Certified University Student](https://edu.google.accredible.com/7ac8fbac-23c6-4f2d-81c4-56d85640b1dc#acc.KBaOZmLN)*
 - *[SoloLearn Data Analytics with AI](https://www.sololearn.com/certificates/CC-UIEMU0JO)*
