@@ -22,7 +22,9 @@ An aspiring Network Administrator and IT Specialist, eager to build strong techn
 ## Skills
 ### Programming
 - Java
+- Python
 - SQL
+- React Native
 
 ### Databases
 - IBM DB2 Cloud  
@@ -38,7 +40,7 @@ An aspiring Network Administrator and IT Specialist, eager to build strong techn
 - Beginner (Ongoing to Intermediate)
 
 ### Cameras That I Used (18-140mm kit lens)
-- Canon EOS 50
+- Canon EOS R50
 - Canon EOS 200D
 - Nikon D7200
 - Nikon D5100
